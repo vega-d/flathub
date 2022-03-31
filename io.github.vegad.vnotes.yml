@@ -36,4 +36,4 @@ modules:
     sources:
       - type: git
         url: https://github.com/vega-d/vnotes
-        commit: 1c8188e61f369de7d1b9dab7bfaae1450e690469
+        commit: b2faa0c89c3037a73901e9ff26a516617c9efac0
